@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="adminster.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="345" topLine="264" />
+	</File>
+	<File name="changeticket.cpp" open="1" top="1" tabpos="9">
+		<Cursor position="0" topLine="396" />
+	</File>
+	<File name="find.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="84" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1882" topLine="75" />
+	</File>
+	<File name="overall.h" open="1" top="0" tabpos="2">
+		<Cursor position="163" topLine="79" />
+	</File>
+	<File name="read.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="120" />
+	</File>
+	<File name="sort.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2560" topLine="323" />
+	</File>
+	<File name="user.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="827" topLine="440" />
+	</File>
+	<File name="write.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="57" />
+	</File>
+</CodeBlocks_layout_file>

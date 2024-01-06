@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1687847105 source:c:\users\hp-pc\desktop\c\informationmanage\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+	<fstream>
+
+1687857603 c:\users\hp-pc\desktop\c\informationmanage\overall.h
+	<bits/stdc++.h>
+
+1687845523 source:c:\users\hp-pc\desktop\c\informationmanage\user.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1687852931 source:c:\users\hp-pc\desktop\c\informationmanage\adminster.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1687764250 source:c:\users\hp-pc\desktop\c\informationmanage\read.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1687845997 source:c:\users\hp-pc\desktop\c\informationmanage\sort.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1687764250 source:c:\users\hp-pc\desktop\c\informationmanage\write.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1687835877 source:c:\users\hp-pc\desktop\c\informationmanage\changeticket.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1687849195 source:c:\users\hp-pc\desktop\c\informationmanage\find.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+	<fstream>
+
+1688021154 source:c:\users\hp-pc\desktop\c\informationmanage - 副本\changeticket.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1688029853 c:\users\hp-pc\desktop\c\informationmanage - 副本\overall.h
+	<bits/stdc++.h>
+
+1687935503 source:c:\users\hp-pc\desktop\c\informationmanage - 副本\find.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+	<fstream>
+
+1688444003 source:c:\users\hp-pc\desktop\c\informationmanage - 副本\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+	<fstream>
+
+1688023295 source:c:\users\hp-pc\desktop\c\informationmanage - 副本\read.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1688443284 source:c:\users\hp-pc\desktop\c\informationmanage - 副本\sort.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1688023295 source:c:\users\hp-pc\desktop\c\informationmanage - 副本\write.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1688108600 source:c:\users\hp-pc\desktop\c\informationmanage - 副本\user.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
+1688443874 source:c:\users\hp-pc\desktop\c\informationmanage - 副本\adminster.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"overall.h"
+
